@@ -1,0 +1,17 @@
+# macOS and Jekyll
+.DS_Store
+_site/
+.jekyll-cache/
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+*.ovpn
+
+# Raw lab data
+*.pcap
+*.pcapng
+*.ova
+*.iso
+*.vmdk
