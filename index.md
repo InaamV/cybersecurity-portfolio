@@ -45,7 +45,7 @@ I am Inaam Verteneuille, a cybersecurity student currently on an exchange semest
 | Nmap | Working knowledge | [Nmap service scan](projects/nmap-service-scan/) |
 | Penetration testing methodology | Beginner | [Nmap service scan](projects/nmap-service-scan/), WQE7011 |
 | Metasploit | Beginner | WQE7011 labs |
-| Burp Suite | Working knowledge | Bachelor's projects |
+| Burp Suite | Working knowledge | Bachelor's projects, Work-Study |
 
 ### Defensive security
 
@@ -93,19 +93,18 @@ I am Inaam Verteneuille, a cybersecurity student currently on an exchange semest
 
 **Completed**
 - **Protection of Classified Information** (*La protection des secrets*) - Direction du Renseignement et de la Sécurité de la Défense (DRSD), 2023
-- **GDPR and its key concepts - Module 1** (*Le RGPD et ses notions clés*) - CNIL, YEAR
-- **Cisco Introduction to Networks (ITN)** - Cisco Networking Academy, YEAR - [Credly badge](CREDLY_LINK)
-
+- **GDPR and its key concepts - Module 1** (*Le RGPD et ses notions clés*) - CNIL, 2023
+- **Cisco Introduction to Networks (ITN)** - Cisco Networking Academy, 2026
 **In progress**
-- **Cisco Switching, Routing and Wireless Essentials (SRWE)** — Cisco Networking Academy — target: MONTH YEAR
-- **Cisco CyberOps Associate** (WQE7001 Cyber Security, Universiti Malaya) — Cisco Networking Academy — target: MONTH YEAR
+- **Cisco Switching, Routing and Wireless Essentials (SRWE)** — Cisco Networking Academy — target: December 2026
+- **Cisco CyberOps Associate** (WQE7001 Cyber Security, Universiti Malaya) — Cisco Networking Academy — target: December 2026
 
 **Planned**
 - **Cisco Enterprise Networking, Security and Automation (ENSA)**
 
 ## Contact
 
-- Email: YOUR_EMAIL
+- Email: verteneuilleinaam@gmail.com
 - GitHub: [InaamV](https://github.com/InaamV)
 - LinkedIn: [Inaam Verteneuille](https://www.linkedin.com/in/inaam-verteneuille/)
 
