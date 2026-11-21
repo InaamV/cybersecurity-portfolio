@@ -115,3 +115,13 @@ title: Home
 ## Learning journey
 
 ## Career objective
+
+My target role is **SOC Analyst (Level 1)**. Working in a Security Operations Centre would give me hands-on experience in detecting and responding to real threats, and it opens many paths in cybersecurity.
+
+After completing my Master's in 2027, I would like to build on my current role as a Cybersecurity Reporting Analyst, which gives me a broad view of my company's security through its KPIs. Alongside it, I will prepare for a SOC position through three concrete steps:
+
+1. Complete the Cisco CyberOps Associate course by February 2027, then pass the Cisco CyberOps Associate (CBROPS) certification by June 2027.
+2. Build my own SOC training application, in which users analyse realistic logs and get an explanation at the end. A first version with three scenarios is planned for summer 2027.
+3. Practise with SIEM tools through the TryHackMe SOC Level 1 path.
+
+In the longer term, I would also like to explore penetration testing, the goal I described in my earlier learning plan. Understanding attacks from the defensive side will give me a solid foundation for it.
