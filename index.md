@@ -5,6 +5,8 @@ title: Home
 
 ## About me
 
+I am Inaam Verteneuille, a cybersecurity student currently on an exchange semester at Universiti Malaya in Malaysia. I am enrolled in a work-study Master's programme at ESIEE-IT in France, and I work for an insurance company as a Cybersecurity Reporting Analyst (*Chargé de pilotage Cyber Sécurité*). In this role, I collect cybersecurity KPIs, turn them into clear dashboards, and improve the way this data is gathered.
+
 ## Technical skills
 
 ### Development
