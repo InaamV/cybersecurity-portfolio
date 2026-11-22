@@ -16,5 +16,5 @@ This repository hosts my professional cybersecurity portfolio. It presents my pr
 
 - All projects are carried out only in environments I control or am authorised to use, such as my own virtual lab.
 - The `.gitignore` file keeps system files, credentials (keys, VPN profiles, environment files) and raw lab data (packet captures, virtual machine images) out of the repository.
-- Screenshots and other evidence are sanitised before publication: IP addresses, hostnames and usernames are removed or masked.
+- Screenshots and other evidence are sanitised before publication: personal or identifying information (usernames, computer names, location) is removed. The only IP addresses shown belong to my isolated lab network.
 - Commits use a GitHub no-reply email address, so my personal address is never exposed in the public history.
