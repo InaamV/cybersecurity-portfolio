@@ -3,8 +3,6 @@ title: Nmap Service Scan
 permalink: /projects/nmap-service-scan/
 ---
 
-# Nmap Service Scan
-
 ## Objective
 
 Identify the open services on a target machine and detect vulnerabilities based on their versions.
