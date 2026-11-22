@@ -3,8 +3,6 @@ title: Virtual Lab Setup
 permalink: /projects/virtual-lab-setup/
 ---
 
-# Virtual Lab Setup
-
 ## Objective
 
 Build an isolated virtual lab in order to practise offensive security techniques safely, without any risk to real systems or networks.
